@@ -4,4 +4,4 @@ Ever thought of the next video streaming platform? Be it youtube or rumble, welc
 • Developed and implemented in HTML, CSS, Javscript, React and Material UI                    
 • Developed and implemented features by utilizing functional components along with their reuseability
 
-Take a look at this website at watchtube2022.netlify.app and start watching today!
+Take a look at this website at https://watchtube2022.netlify.app/ and start watching today!
